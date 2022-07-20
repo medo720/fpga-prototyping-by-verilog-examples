@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\digital\verilog\intro
+vbin_dec
+Z1 IYPJiiZkEVm1[DBXK?FQRh1
+Z2 VeWZ]AhQUMhn``nI2Ue8e43
+Z3 dE:\digital\verilog\intro
+Z4 w1658283136
+Z5 8./bin_dec.v
+Z6 F./bin_dec.v
+L0 1
+Z7 OV;L;6.6d;45
+r1
+31
+o-O0
+Z8 !s100 PbO6IaBUbB=RTdH>NEF>^3
+!s85 0
+!s101 -O0
+vbin_enc
+Z9 I8;PHQI8N_ZSd@`_BNaefS3
+Z10 V3flo[_Y?C3U_WP=A8F8KF3
+R3
+Z11 w1658282225
+Z12 8./bin_enc.v
+Z13 F./bin_enc.v
+L0 1
+R7
+r1
+31
+o-O0
+Z14 !s100 iRn48>RZda4coJ03I?DK=1
+!s85 0
+!s101 -O0
+veq1
+Z15 Ij53i<DjS9oIHj?E`[cLCX0
+Z16 VE4bf6YKLd4ZLJiE<_@[]40
+R3
+Z17 w1658250899
+Z18 8./eq1.v
+Z19 F./eq1.v
+L0 1
+R7
+r1
+31
+o-O0
+Z20 !s100 @:EFbI8FU;<KiVe[6joXR3
+!s85 0
+!s101 -O0
+veq2
+Z21 IKdnUkQkzBDeC`doAoFmC30
+Z22 Vea3hJ9OA48aKNzPnFAAH93
+R3
+Z23 w1658277968
+Z24 8./eq2.v
+Z25 F./eq2.v
+L0 1
+R7
+r1
+31
+o-O0
+Z26 !s100 7>eTiHZz4J]Sga1;15?_o1
+!s85 0
+!s101 -O0
+veq2_sop
+Z27 IJz=DCmV3Jai@4MgIQLNB13
+Z28 VZijd[mO77P6b3D:I_Ol<c0
+R3
+Z29 w1658251876
+Z30 8./eq2_sop.v
+Z31 F./eq2_sop.v
+L0 1
+R7
+r1
+31
+o-O0
+Z32 !s100 =0>]3lOO[G=FT9oQO>P2g2
+!s85 0
+!s101 -O0
+veq2_testbench
+Z33 IUMcP>nSZeDe@TJ=n;cWB>0
+Z34 V3Fc2SL?1;eGgzeomi7;h22
+R3
+Z35 w1658278683
+Z36 8eq2_testbench.v
+Z37 Feq2_testbench.v
+L0 2
+R7
+r1
+31
+o-O0
+Z38 !s100 ]enckLWXMnb=Y6XDY[OBk3
+!s85 0
+!s101 -O0
+vgt
+!s100 l_=4jGEQW=iOcTj[RMV4z0
+I96hfLODz3oC:A?godLYT61
+VJ?OX=9[bTT0aIKY__jUEl2
+R3
+w1658283528
+8./gt.v
+F./gt.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s101 -O0
+o-O0

@@ -1,0 +1,8 @@
+# vsim work.gt 
+# Loading work.gt
+add wave sim:/gt/*
+force -freeze sim:/gt/a 1 0, 0 {10 ps} -r 20
+force -freeze sim:/gt/b 1 0, 0 {25 ps} -r 50
+run
+run
+run

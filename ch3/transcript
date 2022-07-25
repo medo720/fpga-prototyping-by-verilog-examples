@@ -1,0 +1,14 @@
+# vsim work.bcd_inc 
+# Loading work.bcd_inc
+add wave sim:/bcd_inc/*
+force -freeze sim:/bcd_inc/in 699 0
+# Invalid binary digit: 6.
+# ** Error: (vsim-4011) Invalid force value: 699 0.
+# 
+force -freeze sim:/bcd_inc/in 001110001000 0
+run
+force -freeze sim:/bcd_inc/in 001110001001 0
+run
+force -freeze sim:/bcd_inc/in 001110011001 0
+run
+# WARNING: No extended dataflow license exists
